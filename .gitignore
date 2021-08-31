@@ -1,3 +1,10 @@
+# Dataset
+../input/project-1-sudoku-challenge/small1.csv
+../input/project-1-sudoku-challenge/small2.csv
+../input/project-1-sudoku-challenge/large1.csv
+../input/project-1-sudoku-challenge/large2.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
